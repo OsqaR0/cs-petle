@@ -1,0 +1,15 @@
+D:\Programowanie\C#\Pętle\bin\Debug\net6.0\Pętle.exe
+D:\Programowanie\C#\Pętle\bin\Debug\net6.0\Pętle.deps.json
+D:\Programowanie\C#\Pętle\bin\Debug\net6.0\Pętle.runtimeconfig.json
+D:\Programowanie\C#\Pętle\bin\Debug\net6.0\Pętle.dll
+D:\Programowanie\C#\Pętle\bin\Debug\net6.0\Pętle.pdb
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.csproj.AssemblyReference.cache
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.AssemblyInfo.cs
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.dll
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\refint\Pętle.dll
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.pdb
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\Pętle.genruntimeconfig.cache
+D:\Programowanie\C#\Pętle\obj\Debug\net6.0\ref\Pętle.dll
